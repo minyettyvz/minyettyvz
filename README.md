@@ -24,10 +24,35 @@
 
 <img alt="medium" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 
-<h2>Contact</h2>
 
-📖 Software developer
-📆 2022 - Present
-📍 Instituto Tecnológico de Las Américas (ITLA)
  
 </div>
+
+<h2>Contacts</h2>
+
+<strong>Email:</strong> <a href="mailto:joaquinminyetty@gmail.com" target="_blank" rel="noopener noreferrer">joaquinminyetty@gmail.com</a> <br />
+<strong>Phone / WhatsApp:</strong> <a href="https://api.whatsapp.com/send?phone=+118493611864&text=Hola%20Joan%20Ramirez,%20Necesito%20de%20tu%20servicios." target="_blank" rel="noopener noreferrer">+1849-361-1864</a>
+
+<h2>Education</h2>
+
+<ul>
+  <li>
+    📖 Software developer<br/>
+    📆 2022 - Present<br/>
+    📍 Instituto Tecnológico de Las Américas (ITLA)
+  </li>
+</ul>
+
+
+<h2>Education</h2>
+
+<ul>
+  <li>
+    📖 Software developer<br/>
+    📆 2022 - Present<br/>
+    📍 Instituto Tecnológico de Las Américas (ITLA)
+  </li>
+</ul>
+
+
+
