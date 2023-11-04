@@ -23,5 +23,11 @@
 <img alt="medium" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
 
 <img alt="medium" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+
+<h2>Contact</h2>
+
+📖 Software developer
+📆 2022 - Present
+📍 Instituto Tecnológico de Las Américas (ITLA)
  
 </div>
