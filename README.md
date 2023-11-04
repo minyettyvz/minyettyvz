@@ -24,8 +24,6 @@
 
 <img alt="medium" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 
-
- 
 </div>
 
 <h2>Contacts</h2>
@@ -42,8 +40,3 @@
     📍 Instituto Tecnológico de Las Américas (ITLA)
   </li>
 </ul>
-
-
-
-
-
