@@ -29,6 +29,10 @@
 <strong>Email:</strong> <a href="mailto:joaquinminyetty@gmail.com" target="_blank" rel="noopener noreferrer">joaquinminyetty@gmail.com</a> <br/>
 <strong>Phone / WhatsApp:</strong> <a href="https://wa.link/44qk2m" target="_blank" rel="noopener noreferrer">+1849-361-1864</a>
 
+<img alt="medium" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
+
+
+
 <h2>Education</h2>
 
 <ul>
