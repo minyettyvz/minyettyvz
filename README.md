@@ -1,4 +1,4 @@
-
+<img src="animation-particles.svg" style="width: 100%;" />
 <div>
 <h2>My Skills</h2>
 
