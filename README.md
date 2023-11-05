@@ -18,6 +18,8 @@
 
 <img alt="medium" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 
+<img alt="medium" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+
 <img alt="medium" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
 
 <img alt="medium" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
@@ -29,7 +31,7 @@
 <strong>Email:</strong> <a href="mailto:joaquinminyetty@gmail.com" target="_blank" rel="noopener noreferrer">joaquinminyetty@gmail.com</a> <br/>
 <strong>Phone / WhatsApp:</strong> <a href="https://wa.link/44qk2m" target="_blank" rel="noopener noreferrer">+1849-361-1864</a>
 
-<img alt="medium" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
+
 
 
 
@@ -41,4 +43,12 @@
     📆 2022 - Present<br/>
     📍 Instituto Tecnológico de Las Américas (ITLA)
   </li>
+  <img alt="medium" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
+<img alt="medium" src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white" />
+<img alt="medium" src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white" />
+  
 </ul>
+
+
+
+
