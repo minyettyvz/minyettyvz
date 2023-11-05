@@ -1,3 +1,5 @@
+<H1>Alvaro J. Minyety</H1>
+
 <img src="animation-particles.svg" style="width: 100%;" />
 <div>
 <h2>My Skills</h2>
