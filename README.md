@@ -1,4 +1,4 @@
-<H1>Alvaro J. Minyety</H1>
+<H1>Alvaro J. Minyetty</H1>
 
 <img src="animation-particles.svg" style="width: 100%;" />
 <div>
