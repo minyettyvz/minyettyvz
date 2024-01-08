@@ -194,6 +194,20 @@
             border-radius: 50%;
           }
         }
+
+        @media (max-width: 375px) {
+    h1 {
+      font-size: 1.5em;
+    }
+
+    p {
+      font-size: 0.7em;
+    }
+
+    .container {
+      padding: 5px; /* Reduzco aún más el espacio para pantallas más pequeñas */
+    }
+  }
       </style>
       <div class="container">
         <h1>WEB <br /> DEVELOPER‍💻</h1>
