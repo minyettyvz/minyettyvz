@@ -38,7 +38,7 @@
             opacity: 1;
           }
         }
-       .container {
+        .container {
           font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica,
             Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
           display: flex;
@@ -48,26 +48,25 @@
           margin: 0;
           width: 100%;
           height: 400px;
-          background: linear-gradient(-45deg, RED, #112957, #7de9ff);
+          background: linear-gradient(-45deg, #1b3f74, #112957, #7de9ff);
           background-size: 600% 400%;
           animation: gradientBackground 10s ease infinite;
           border-radius: 10px;
           color: white;
           text-align: center;
-        }  un espacio interior para mejorar el aspecto */
-  }
+        }
         h1 {
           font-size: 50px;
           line-height: 1.3;
           letter-spacing: 5px;
           text-transform: uppercase;
-          text-shadow: 0 1px 0 #7de9ff, 0 2px 0 #efefef, 0 3px 0 #efefef,
+          text-shadow: 0 1px 0 #efefef, 0 2px 0 #efefef, 0 3px 0 #efefef,
             0 4px 0 #efefef, 0 12px 5px rgba(0, 0, 0, 0.1);
           animation: rotate ease-in-out 1s infinite alternate;
         }
         p {
           font-size: 20px;
-          text-shadow: 0 1px 0 #112957;
+          text-shadow: 0 1px 0 #efefef;
           animation: 5s ease 0s normal forwards 1 fadeIn;
           display: hidden;
         }
@@ -195,15 +194,6 @@
             border-radius: 50%;
           }
         }
-
-        @media (max-width: 375px) {
-    .container {
-      padding: 10px; /* Reduzco el espacio interior para pantallas más pequeñas */
-      min-height: 300px; /* Ajusta la altura mínima para pantallas más pequeñas */
-    }
-  }
-
-       
       </style>
       <div class="container">
         <h1>WEB <br /> DEVELOPER‍💻</h1>
