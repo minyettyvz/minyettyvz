@@ -41,9 +41,14 @@
     📆 2022 - Present<br/>
     📍 Instituto Tecnológico de Las Américas (ITLA)
 
-  <img alt="medium" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
+    <div>   
+     <img alt="medium" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
 <img alt="medium" src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white" />
 <img alt="medium" src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white" />
+    
+    </div>
+
+ 
   
 
 
