@@ -36,7 +36,7 @@
 <h2>Education</h2>
 
 
-   📍 Instituto Tecnológico de Las Américas (ITLA)
+   📍 Instituto Tecnológico de Las Américas (ITLA)<br>
    📖 Software developer<br/>
    📆 2022 - Present<br/>
     
