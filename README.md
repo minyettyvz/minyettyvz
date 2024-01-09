@@ -22,6 +22,8 @@
 
 <img alt="medium" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 
+<img alt="medium" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+
 </div>
 
 <h2>Contacts</h2>
