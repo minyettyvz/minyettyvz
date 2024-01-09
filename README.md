@@ -51,7 +51,7 @@
 <img alt="medium" src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white" />
 
 
-<img alt="medium" src="https://github-readme-streak-stats.herokuapp.com/?user={Alvaro}&theme={dark}" />
+<img alt="medium" src="https://github-readme-stats.vercel.app/api/top-langs/?user={Alvaro}&theme={dark}" />
 
      
  </div>
