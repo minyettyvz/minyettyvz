@@ -49,10 +49,11 @@
 <img alt="medium" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
 <img alt="medium" src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white" />
 <img alt="medium" src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white" />
+<img alt="medium" src="https://github-readme-streak-stats.herokuapp.com/?user={Alvaro J. Minyety}" />
      
  </div>
 
- https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={Alvaro J. Minyety}
+
  
 
     
