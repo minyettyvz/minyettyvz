@@ -61,7 +61,7 @@
 
   <div>
       
-<img alt="medium" src="https://github-readme-streak-stats.herokuapp.com/?user={Alvaro}&theme={radical}"/>
+<img alt="medium" src="https://github-readme-stats.vercel.app/api/top-langs/?username={Alvaro}&theme={dark}"/>
 
 
 
