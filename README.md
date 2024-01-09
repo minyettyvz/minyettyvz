@@ -50,6 +50,9 @@
 <img alt="medium" src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white" />
 <img alt="medium" src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white" />
 
+
+<img alt="medium" src="https://github-readme-streak-stats.herokuapp.com/?user={username}&theme={dark}" />
+
      
  </div>
 
