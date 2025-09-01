@@ -22,6 +22,8 @@
 
 <img alt="medium" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
+<img alt="medium" src="https://img.shields.io/bundlephobia/:format/:packageName" />
+
 </div>
 
 <h2>Contacts</h2>
