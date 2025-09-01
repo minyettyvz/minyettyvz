@@ -22,7 +22,8 @@
 
 <img alt="medium" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
-<img alt="medium" src="https://img.shields.io/bundlephobia/:format/:packageName" />
+<img alt="npm bundle size" src="https://img.shields.io/bundlephobia/:format/:packageName">
+
 
 </div>
 
